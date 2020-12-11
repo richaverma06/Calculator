@@ -4,6 +4,7 @@ body{
    margin:4%;
   padding : 8%; 
   background-color:grey; 
+      overflow : hidden;
 }
 h1{
    display:block;
